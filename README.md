@@ -16,7 +16,8 @@
     />
   </a>
 </p>
-##👨‍💻 Sobre mim
+
+## 👨‍💻 Sobre mim
 
 - 🎓 Cursando ADS na Uniceplac - Gama, atualmente no 4º semestre.
 - 💻 Estudando programação e desenvolvimento de software.
