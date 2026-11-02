@@ -8,7 +8,11 @@
   Explorando o mundo da programação e desenvolvendo
   minhas habilidades em tecnologia.
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/Misael-Witalo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando ADS na Uniceplac - Gama, atualmente no 4º semestre.
