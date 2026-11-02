@@ -10,7 +10,10 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/Misael-Witalo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/Conecte--se_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Conecte-se comigo no LinkedIn"
+    />
   </a>
 </p>
 ## 👨‍💻 Sobre mim
