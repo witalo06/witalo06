@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de ADS, atualmente no 4º semestre.
+- 🎓 Cursando ADS na Uniceplac - Gama, atualmente no 4º semestre.
 - 💻 Estudando programação e desenvolvimento de software.
 - 🌱 Aprendendo C, Java e SQL.
 - 🚀 Construindo projetos acadêmicos e pessoais.
