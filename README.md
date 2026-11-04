@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg" width="45">
+  <img src="https://img.icons8.com/fluency/48/cloud.png" width="45">
 </p>
 
 <p align="center">
