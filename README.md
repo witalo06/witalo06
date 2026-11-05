@@ -26,8 +26,6 @@
 
 ## 🛠️ Tecnologias em estudo
 
-<h3>🛠️ Tecnologias em estudo</h3>
-
 <table>
   <tr>
     <th>Programação</th>
