@@ -26,9 +26,21 @@
 
 ## 🛠️ Tecnologias em estudo
 
-<p align="center">
+<p table align="center">
+  <tr>
+  <th>Programação</th>
+  <th>Desenvolvimento Web</th>
+  <th>Banco de Dados</th>
+  <th>Design</th>
+  <th>Versionamento e Hospedagem</th>
+  </td>
+
+  <tr>
+  <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
+  </td>
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45">
   <img src="https://img.icons8.com/fluency/48/cloud.png" width="45">
 </p>
