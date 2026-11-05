@@ -21,7 +21,7 @@
 
 - 🎓 Cursando ADS na Uniceplac - Gama, atualmente no 4º semestre.
 - 💻 Estudando programação e desenvolvimento de software.
-- 🌱 Aprendendo C, Java e SQL.
+- 🌱 Aprendendo Linguagens de Programação, Banco de Dados, Web e Design.
 - 🚀 Construindo projetos acadêmicos e pessoais.
 
 ## 🛠️ Tecnologias em estudo
@@ -29,7 +29,6 @@
 <p table align="center">
   <tr>
   <th>Programação</th>
-  <th>Desenvolvimento Web</th>
   <th>Banco de Dados</th>
   <th>Design</th>
   <th>Versionamento e Hospedagem</th>
@@ -37,14 +36,31 @@
 
   <tr>
   <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
   </td>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45">
-  <img src="https://img.icons8.com/fluency/48/cloud.png" width="45">
-</p>
 
-<p align="center">
-  C   |   Java   |   SQL   |   Cloud  
-</p>
+  <tr> 
+  <td align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40">
+  </tr> 
+
+  <td align="center">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40">
+  </td>
+
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </td>
+  </tr>
+
+<tr>
+<td align="center">C · Java </td> 
+<td align="center">MySQL</td>
+<td align="center">Canva</td>
+<td align="center">Vercel · Git · GitHub </td>
+
+</tr>
+</table>
