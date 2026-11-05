@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
-  C | Java | SQL | Cloud
+  C   |   Java   |   SQL   |   Cloud  
 </p>
