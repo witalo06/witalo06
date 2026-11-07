@@ -70,8 +70,8 @@
     Azure
   </p>
   <p>
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" alt="AWS"><br>
-    AWS
-  </p>
+  <img src="https://img.shields.io/badge/%20-FF9900?style=flat&logo=amazonaws&logoColor=white" width="45" alt="AWS"><br>
+  AWS
+</p>
   </tr>
 </table>
