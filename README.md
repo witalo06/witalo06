@@ -73,7 +73,5 @@
     <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" alt="AWS"><br>
     AWS
   </p>
-</td>
-</td>
   </tr>
 </table>
