@@ -33,6 +33,7 @@
     <th>Banco de Dados</th>
     <th>Projeto</th>
     <th>Versionamento e Implantação</th>
+    <th>Cloud</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -65,13 +66,14 @@
     </td>
  <td align="center" valign="top">
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"><br>
     Azure
   </p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" alt="Amazon AWS"><br>
+    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" alt="AWS"><br>
     AWS
   </p>
+</td>
 </td>
   </tr>
 </table>
