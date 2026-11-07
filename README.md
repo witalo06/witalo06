@@ -69,8 +69,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"><br>
     Azure
   </p>
-  <p>
-  <img src="https://img.shields.io/badge/%20-FF9900?style=flat&logo=amazonaws&logoColor=white" width="45" alt="AWS"><br>
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" alt="AWS"><br>
   AWS
 </p>
   </tr>
