@@ -63,5 +63,15 @@
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"><br>GitHub</p>
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel"><br>Vercel</p>
     </td>
+ <td align="center" valign="top">
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"><br>
+    Azure
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" alt="Amazon AWS"><br>
+    AWS
+  </p>
+</td>
   </tr>
 </table>
