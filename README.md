@@ -54,7 +54,6 @@
     <td align="center" valign="top">
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"><br>MySQL</p>
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"><br>PostgreSQL</p>
-      <p>SQL</p>
     </td>
     <!-- PROJETO -->
     <td align="center" valign="top">
