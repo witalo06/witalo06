@@ -26,7 +26,7 @@
 
 
 
-<h3>🛠️ Tecnologias em estudo</h3>
+## 🛠️ Tecnologias em estudo
 
 <table>
   <tr>
@@ -38,52 +38,42 @@
     <th align="center">Infraestrutura e Nuvem</th>
   </tr>
   <tr>
+    <!-- PROGRAMAÇÃO -->
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"><br>
-      C<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"><br>
-      Java<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"><br>
-      Python
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"><br>C</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"><br>Java</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"><br>Python</p>
     </td>
+    <!-- DESENVOLVIMENTO WEB -->
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"><br>
-      HTML<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"><br>
-      CSS<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"><br>
-      JavaScript
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"><br>HTML</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"><br>CSS</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"><br>JavaScript</p>
     </td>
+    <!-- BANCO DE DADOS -->
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"><br>
-      MySQL<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"><br>
-      PostgreSQL<br><br>
-      SQL
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"><br>MySQL</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"><br>PostgreSQL</p>
+      <p>SQL</p>
     </td>
+    <!-- PROJETO -->
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"><br>
-      Figma<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva"><br>
-      Canva
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"><br>Figma</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva"><br>Canva</p>
     </td>
+    <!-- VERSIONAMENTO E IMPLANTAÇÃO -->
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"><br>
-      Git<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"><br>
-      GitHub<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel"><br>
-      Vercel
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"><br>Git</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"><br>GitHub</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel"><br>Vercel</p>
     </td>
+    <!-- INFRAESTRUTURA E NUVEM -->
     <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"><br>
-      Docker<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"><br>
-      Azure<br><br>
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" alt="AWS"><br>
-      AWS<br><br>
-      <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="40" alt="Railway"><br>
-      Railway
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"><br>Docker</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"><br>Azure</p>
+      <p><img src="https://cdn.simpleicons.org/railway/FFFFFF" width="40" alt="Railway"><br>Railway</p>
     </td>
   </tr>
 </table>
+
+
