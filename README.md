@@ -24,7 +24,8 @@
 - 🌱 Aprendendo Linguagens de Programação, Banco de Dados, Web e Design.
 - 🚀 Construindo projetos acadêmicos e pessoais.
 
-## 🛠️ Tecnologias em estudo
+
+<h3>🛠️ Tecnologias em estudo</h3>
 
 <table>
   <tr>
@@ -129,4 +130,6 @@
     </td>
   </tr>
 </table>
+
+
 
