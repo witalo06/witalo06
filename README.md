@@ -42,8 +42,20 @@
       <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"><br>Python</p>
     </td>
     <td align="center" valign="top">
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"><br>HTML</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"><br>CSS</p>
+     <td align="center" valign="top">
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"><br>
+    HTML
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"><br>
+    CSS
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"><br>
+    JavaScript
+  </p>
+</td>
     </td>
     <td align="center" valign="top">
       <p>
